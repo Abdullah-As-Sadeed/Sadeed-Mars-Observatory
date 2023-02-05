@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/sadeed_nasa_mars_rover_photos/BuildConfig.java
+ com.example.sadeed_nasa_mars_rover_photos.BuildConfig

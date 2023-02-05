@@ -1,0 +1,3 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class com.example.sadeed_nasa_mars_rover_photos.MainActivity { <init>(); }
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }

@@ -1,0 +1,4 @@
+#Wed Oct 27 11:04:04 BDT 2021
+base.0=/home/family/Laboratory/sadeed_nasa_mars_rover_photos/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
