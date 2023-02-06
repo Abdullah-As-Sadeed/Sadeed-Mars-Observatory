@@ -110,7 +110,7 @@ class _HomePageState extends State<HomePage> {
             ListTile(
               title: const Text("Developer Page"),
               onTap: () {
-                launch("https://sadeed.live/");
+                launch("https://sadeed.service-ways.com/");
                 Navigator.pop(context);
               },
             ),
